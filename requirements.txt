@@ -1,0 +1,6 @@
+transformers
+datasets
+accelerate
+ipykernel
+scikit-learn
+matplotlib
